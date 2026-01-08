@@ -1,0 +1,27 @@
+body {
+  background-color: #FAF2F6;
+}
+
+h1 {
+  color: rgb(21, 42, 53);
+  font-size: 44px;
+  font-family: 'roboto flex', sans-serif;
+}
+
+h2 {
+  color: darkslategray;
+  font-size: 28px;
+  font-family: 'manrope', sans-serif;
+}
+
+h3 {
+  color: darkslategray;
+  font-size: 24px;
+  font-family: 'manrope', sans-serif;
+}
+
+p {
+  color: darkslategray;
+  font-size: 16px;
+  font-family: 'manrope', sans-serif;
+}
